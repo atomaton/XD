@@ -1,0 +1,12 @@
+git status
+npm install
+npm start
+npm run watch
+
+git status
+git add --all
+git commit -m "updated copy and text formating"
+git push origin 565-fix
+git fetch origin
+
+git checkout develop

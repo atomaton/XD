@@ -1,7 +1,5 @@
-git status
-npm install
-npm start
-npm run watch
+
+
 
 git status
 git add --all
@@ -10,3 +8,7 @@ git push origin 565-fix
 git fetch origin
 
 git checkout develop
+
+npm install
+npm start
+npm run watch
